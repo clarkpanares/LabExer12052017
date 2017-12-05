@@ -30,7 +30,7 @@
         android:id="@+id/btnclear"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignTop="@+id/button"
+        android:layout_alignTop="@+id/btnsave"
         android:layout_centerHorizontal="true"
         android:onClick="clear"
         android:text="CLEAR" />
@@ -41,7 +41,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
-        android:layout_alignTop="@+id/button2"
+        android:layout_alignTop="@+id/btnclear"
         android:onClick="displayStorage"
         android:text="DISPLAY" />
 
